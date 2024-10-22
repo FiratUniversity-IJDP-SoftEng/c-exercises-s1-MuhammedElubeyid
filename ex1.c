@@ -12,4 +12,4 @@ int main(void){
     printf("you got it wrong");
   }
 }
-
+// What if user try to input any number out of the 1-5 interval? You should think about this solution. 
